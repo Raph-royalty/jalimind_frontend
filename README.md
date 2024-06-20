@@ -10,6 +10,7 @@ This project is a mental health chatbot built using JavaScript and powered by Vi
 - Axios: A popular JavaScript library used for making HTTP requests.
 - Preact: A fast 3kB alternative to React, with the same modern API.
 
+
 ## Project Setup
 To set up the project locally, follow these steps:
 
