@@ -174,7 +174,7 @@ const Chat = ({ username, uid }) => {
                         </button>
                     </form>
                     <div className="chat-footer">
-                        <div className="chat-footer-text">© 2023 Jalimind</div>
+                        <div className="chat-footer-text">© 2024 Jalimind</div>
                     </div>
                 </div>
             </div>
