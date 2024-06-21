@@ -14,6 +14,8 @@ const Chat = ({ username, uid }) => {
     const [conversationId, setConversationId] = useState('');
     const [typingMessage, setTypingMessage] = useState('Loading');
 
+    const currentYear = new Date().getFullYear();
+
     useEffect(() => {
 
         let randomIDFromFirestore = firebase.firestore().collection('chat').doc().id;
@@ -174,7 +176,7 @@ const Chat = ({ username, uid }) => {
                         </button>
                     </form>
                     <div className="chat-footer">
-                        <div className="chat-footer-text">© 2024 Jalimind</div>
+                        <div className="chat-footer-text">© {currentYear} Jalimind</div>
                     </div>
                 </div>
             </div>
