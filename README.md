@@ -3,6 +3,10 @@ Jalimind Mental Health Chatbot
 ## Overview
 This project is a mental health chatbot built using JavaScript and powered by Vite. The chatbot aims to provide support and resources for individuals dealing with mental health issues.
 
+## Link to Project
+To see the project, you can visit the [link](https://jalimind.web.app/).
+
+
 ## Technologies Used
 - JavaScript: The primary programming language used to build the chatbot.
 - Vite: A fast and opinionated web development build tool that serves as the foundation for the project.
